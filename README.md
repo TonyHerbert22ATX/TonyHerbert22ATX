@@ -54,8 +54,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <br/>
+    <h3>Resume</h3>
     <img src="https://i.imgur.com/Rd1GOrF.png" align="center" style="width: 30%" />
-  <h1>Resume</h1>
+
 </div>  
   
 
