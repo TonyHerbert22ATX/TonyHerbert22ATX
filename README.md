@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/W4wx1oX.jpg" align="center" style="width: 100%" />
-  <img src="https://i.imgur.com/Rd1GOrF.png" align="center" style="width: 10%" />
-
-</div>  
+<img src="https://imgur.com/W4wx1oX.jpg" align="center" style="width: 100%" /></div>  
   
 
 
@@ -56,6 +53,7 @@
 <a href="https://instagram.com/anthonyjames_atx" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+    <img src="https://i.imgur.com/Rd1GOrF.png" align="center" style="width: 10%" />
 </div>  
   
 
