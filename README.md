@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://imgur.com/W4wx1oX.jpg" align="center" style="width: 100%" />
-<blockquote class="imgur-embed-pub" lang="en" data-id="Rd1GOrF"><a href="https://imgur.com/Rd1GOrF">View post on imgur.com</a></blockquote>
+  <img src="https://imgur.com/Rd1GOrF" align="center" style="width: 100%" />
+
 </div>  
   
 
