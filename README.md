@@ -55,7 +55,7 @@
 </a>  
   <br/>
     <h3>Resume</h3>
-    <img src="https://i.imgur.com/Rd1GOrF.png" align="center" style="width: 30%" />
+    <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
 
 </div>  
   
