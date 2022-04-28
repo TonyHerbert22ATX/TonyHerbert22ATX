@@ -23,7 +23,7 @@
 
 ## My Skill Set  
 <div align="center">  
-  ![skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,git,discord,figma,wordpress,vscode&theme=light)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>  
 
 <br/>  
