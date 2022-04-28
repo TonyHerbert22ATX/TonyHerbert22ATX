@@ -48,7 +48,7 @@
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
         </p>
       
- ## Rusume 
+ ## Resume 
  <p align="center">
     <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
 </p>
