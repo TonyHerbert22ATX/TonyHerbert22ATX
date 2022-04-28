@@ -44,15 +44,12 @@
 </p>
 
   <br/>
+      <p align="center">
     <h3>Resume</h3>
     <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
+  </a>
+</p>
 
-</div>  
-  
-
-<div align="center">  
-  
-</div>  
 
 <br/>  
 
