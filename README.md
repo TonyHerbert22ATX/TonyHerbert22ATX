@@ -31,6 +31,12 @@
 
 
 ## Connect with me  
+<p align="center">
+  <a href="https://github.com/TonyHerbert22ATX">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  </a>
+</p>
+
 <div align="center">
 <a href="https://github.com/TonyHerbert22ATX" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
