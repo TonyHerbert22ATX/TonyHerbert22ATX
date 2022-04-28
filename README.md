@@ -41,12 +41,12 @@
         <a href="https://instagram.com/anthonyjames_atx">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
   </a>
-              <a href="https://www.codewars.com/users/TonyHerbert22ATX">
-    <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
 </p>
-
-      
-  <br/>
+<br/>
+      <p align="center">
+      <a href="https://www.codewars.com/users/TonyHerbert22ATX">
+    <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
+        </p>
       
  ## Rusume 
  <p align="center">
