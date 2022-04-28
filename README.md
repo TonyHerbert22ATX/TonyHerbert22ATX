@@ -41,10 +41,10 @@
         <a href="https://instagram.com/anthonyjames_atx">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
   </a>
-        <a href="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
-</p>
-      <a href="https://instagram.com/anthonyjames_atx">
+              <a href="https://www.codewars.com/users/TonyHerbert22ATX">
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
+</p>
+
       
   <br/>
       
