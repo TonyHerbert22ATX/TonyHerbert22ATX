@@ -42,12 +42,12 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
   </a>
 </p>
-
+      
   <br/>
-      <p align="center">
-    <h3>Resume</h3>
+      
+ ## Rusume 
+ <p align="center">
     <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
-  </a>
 </p>
 
 
