@@ -34,6 +34,8 @@
 <p align="center">
   <a href="https://github.com/TonyHerbert22ATX">
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
+    <a href="https://twitter.com/TonyJHerbert22">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
   </a>
 </p>
 
