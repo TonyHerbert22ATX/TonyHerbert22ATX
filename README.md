@@ -37,7 +37,7 @@
     <a href="https://twitter.com/TonyJHerbert22">
     <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
       <a href="https://linkedin.com/in/tonyherbert22">
-    <img src="https://skillicons.dev/icons?i=linkedinr&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
         <a href="https://instagram.com/anthonyjames_atx">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
   </a>
