@@ -24,7 +24,7 @@
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,git,discord,figma,wordpress,vscode" />
   </a>
 </p>
 <br/>  
