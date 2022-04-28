@@ -43,7 +43,9 @@
   </a>
         <a href="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
 </p>
-      https://www.codewars.com/users/TonyHerbert22ATX/badges/large
+      <a href="https://instagram.com/anthonyjames_atx">
+    <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
+      
   <br/>
       
  ## Rusume 
