@@ -50,7 +50,7 @@
       
  ## Resume 
  <p align="center">
-   <a class ='r' href="https://www.canva.com/design/DAE9-GEh1zw/view?utm_content=DAE9-GEh1zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">	    
+   <a class ='r' href="https://www.canva.com/design/DAE9-GEh1zw/view?utm_content=DAE9-GEh1zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">	    
     	      <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
 		  </a>
 
