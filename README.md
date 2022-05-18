@@ -18,7 +18,7 @@
 - 📫 You can reach me at [email ](mailto:tonyherbert22@gmail.com?subject=Hello%20from%20GitHub%20ReadMe). Check out my [portfolio]( https://anthonyjames-dev-atx.netlify.app/)  
   
 
--  📋Currently freelancing. Always accepting new clients  
+-  📋Currently freelancing. Always accepting new clients.  
   
 
 <br/>  
