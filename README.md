@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/wtHqy5Z.png" align="center" style="width: 100%" /></div>  
 
 
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=b13572&vCenter=true&center=true&width=460&lines=software+engineer+by+day;furniture+flipper+by+night" </p> 
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=b13572&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;avid+golfer;self-proclaimed+chef;sports+fanatic" </p> 
 
   
 
