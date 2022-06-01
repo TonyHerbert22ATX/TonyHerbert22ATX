@@ -2,11 +2,11 @@
 <img src="https://i.imgur.com/wtHqy5Z.png" align="center" style="width: 100%" /></div>  
 
 
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=software+engineer+by+day;furniture+flipper+by+night" </p> 
 
   
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Tony. A full-stack software engineer</h1>
+<h1 align="center">Hi 👋, I'm Tony. A full-stack software engineer</h1>
   
 
 - 💼 Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with global reach.  
