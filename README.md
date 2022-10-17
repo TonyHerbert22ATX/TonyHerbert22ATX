@@ -6,7 +6,7 @@
 
   
 
-<h1 align="center">Hi 👋, I'm Tony. A full-stack software engineer <br> based in Austin, Texas</h1>
+<h1 align="center">Hi 👋, I'm Tony. A software engineer <br> based in Austin, Texas</h1>
   
 
 - 💼 Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with global reach.  
