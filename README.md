@@ -49,6 +49,9 @@
       <p align="center">
       <a href="https://www.codewars.com/users/TonyHerbert22ATX">
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
+	      <a href="https://leetcode.com/TonyHerbert22/" target="_blank">
+    <img title="Tony Herberts's LeetCode Stats" alt="Anthony James's LeetCode Stats" src="https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura" />
+  </a>
 	      <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
     <img title="Tony Herberts's LeetCode Stats" alt="Anthony James's LeetCode Stats" src="https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura" />
   </a>
