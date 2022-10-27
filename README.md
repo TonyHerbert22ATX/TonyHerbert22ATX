@@ -50,10 +50,10 @@
       <a href="https://www.codewars.com/users/TonyHerbert22ATX">
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
 	      <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Paprika&ext=activity" />
+    <img title="Tony Herberts's LeetCode Stats" alt="Anthony James's LeetCode Stats" src="[https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura]" />
   </a>
-
         </p>
+	      
 	      ![LeetCode Stats](https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura)
 	      https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null
 	      ![LeetCode Stats](https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null)
