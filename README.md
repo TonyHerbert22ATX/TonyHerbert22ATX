@@ -51,6 +51,8 @@
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
         </p>
 	      ![LeetCode Stats](https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura)
+	      https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null
+	      
       
  ## Resume 
  <p align="center">
