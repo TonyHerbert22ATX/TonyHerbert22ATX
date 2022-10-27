@@ -53,17 +53,7 @@
     <img title="Tony Herberts's LeetCode Stats" alt="Anthony James's LeetCode Stats" src="https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura" />
   </a>
         </p>
-	      
-	      <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/tonyherbert22?theme=unicorn&font=Paprika&ext=activity" />
-  </a>
-	      
-	      ![LeetCode Stats](https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura)
-	      https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null
-	      ![LeetCode Stats](https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null)
-	      [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
-	      https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura
-	      <a href="https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura">
+
       
  ## Resume 
  <p align="center">
