@@ -50,7 +50,7 @@
       <a href="https://www.codewars.com/users/TonyHerbert22ATX">
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
         </p>
-	      ![Leetcode Stats](https://leetcard.jacoblin.cool/TonyHerbert22)
+	      ![LeetCode Stats](https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura)
       
  ## Resume 
  <p align="center">
