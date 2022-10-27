@@ -53,6 +53,7 @@
 	      ![LeetCode Stats](https://leetcard.jacoblin.cool/TonyHerbert22?theme=dark&font=Sura)
 	      https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null
 	      ![LeetCode Stats](https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null)
+	      [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 	      
 	      
       
