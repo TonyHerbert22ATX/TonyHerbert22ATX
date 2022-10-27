@@ -49,8 +49,8 @@
       <p align="center">
       <a href="https://www.codewars.com/users/TonyHerbert22ATX">
     <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
-	      ![Leetcode Stats](https://leetcard.jacoblin.cool/TonyHerbert22)
         </p>
+	      ![Leetcode Stats](https://leetcard.jacoblin.cool/TonyHerbert22)
       
  ## Resume 
  <p align="center">
